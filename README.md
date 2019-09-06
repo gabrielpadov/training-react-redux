@@ -5,6 +5,10 @@ https://www.robinwieruch.de/react-redux-tutorial#redux-without-react
 
 https://blog.getty.io/10-motivos-para-usar-redux-em-2018-96664e124425
 
+api
+https://hn.algolia.com/api
+https://news.ycombinator.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
